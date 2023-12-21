@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Raspmania",
+    "slug": "Raspmania",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "notification": {
+      "icon": "./assets/icon.png",
+      "color": "#ffffff"
+    },
+    "ios": {},
+    "android": {
+      "userInterfaceStyle": "automatic"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
+  }
+}
