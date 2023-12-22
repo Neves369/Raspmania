@@ -660,7 +660,7 @@ const Dashboard: React.FC = ({ navigation }: any) => {
               color: "#E7E7E7",
             }}
           >
-            Raspadinha
+            RaspMania
           </Text>
         </ScreenButtom>
 
